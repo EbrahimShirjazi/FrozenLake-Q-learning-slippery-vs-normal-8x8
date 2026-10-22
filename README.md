@@ -35,7 +35,7 @@ The arrow is the action the agent picks on each tile. Darker tiles have higher v
 ```
 Normal agent on normal ice:      Mean_reward=1.00 +/- 0.00 
 
-Slippery agent on slippery ice:  Mean_reward=0.35 +/- 0.48
+Slippery agent on slippery ice:  Mean_reward=0.34 +/- 0.48
 ```
 
 ## Code
