@@ -10,11 +10,19 @@ Each agent is then tested on both kinds of ice.
 
 **Normal ice**
 
-VIDEO_NORMAL
+
+
+https://github.com/user-attachments/assets/74e90100-5d50-4c79-a6f3-9c80c4c27878
+
+
 
 **Slippery ice** (a winning game; the results below show the real win rate)
 
-VIDEO_SLIPPERY
+
+
+https://github.com/user-attachments/assets/0bccdb30-2227-4217-b491-74dc7977e301
+
+
 
 ## What each agent learned
 
